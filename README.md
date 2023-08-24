@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Yağmur Tetik</h1>
-<h3 align="center">🌟Jr. Software Developer Full Stackr🌟</h3>
+<h3 align="center">🌟Jr. Software Developer Full Stack🌟</h3>
 
 <br>
 
