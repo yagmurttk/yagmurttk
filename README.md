@@ -15,14 +15,15 @@
 
 - ⚡ Fun Fact : Code and Music🎵 are the reasons to live.
 
-- [![](https://visitcount.itsvg.in/api?id=yagmurttk&icon=0&color=12)](https://visitcount.itsvg.in)
+- [![](https://visitcount.itsvg.in/api?id=Cihanmertpeker&icon=0&color=12)](https://visitcount.itsvg.in)
  
 <br>
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yagmurrttk/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/Cihanmertpeker
+    /" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="yagmur" height="30" width="40" /></a>
 </p>
@@ -51,7 +52,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yagmurttk&&row=1&theme=radical" alt="YagmurTetik" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Cihanmertpeker&&row=1&theme=radical" alt="CihanMert" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
